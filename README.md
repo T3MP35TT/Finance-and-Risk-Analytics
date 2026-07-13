@@ -88,5 +88,7 @@ Finance-and-Risk-Analytics
 
 **Data Analyst | Power BI | Python | SQL | Excel**
 
-- LinkedIn: *Add your LinkedIn URL*
-- GitHub: *Add your GitHub URL*
+LinkedIn: *[Kartikey_Singh](https://www.linkedin.com/in/btwitskartiksinghdatanalyst/)*
+
+GitHub: *[Kartikey_Singh](https://github.com/T3MP35TT)*
+
