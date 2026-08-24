@@ -130,6 +130,6 @@ LinkedIn: *[Kartikey_Singh](https://www.linkedin.com/in/btwitskartiksinghdatanal
 
 GitHub: *[Kartikey_Singh](https://github.com/T3MP35TT)*
 
-Portfolio : *[Kartikey_Singh]([https://github.com/T3MP35TT](https://sites.google.com/view/kartikeysingh09/home))*
+Portfolio : *[Kartikey_Singh](https://sites.google.com/view/kartikeysingh09/home)*
 
-Complete WriteUp: *[Kartikey_Singh]([[https://github.com/T3MP35TT](https://sites.google.com/view/kartikeysingh09/home](https://medium.com/@kartikey.singh09/i-didnt-want-to-know-which-stock-went-up-i-wanted-to-know-which-one-was-worth-the-risk-26a5329f8bf5?postPublishedType=initial)))*
+Complete WriteUp: *[Kartikey_Singh](https://medium.com/@kartikey.singh09/i-didnt-want-to-know-which-stock-went-up-i-wanted-to-know-which-one-was-worth-the-risk-26a5329f8bf5?postPublishedType=initial)*
