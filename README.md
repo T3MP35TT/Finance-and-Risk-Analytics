@@ -1,4 +1,4 @@
-# Finance and Risk Analytics
+# Stock-Market-Portfolio-Risk-Analytics
 
 ## Project Overview
 
